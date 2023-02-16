@@ -1,0 +1,24 @@
+body,nav{
+  background-color: #24353F;
+}
+nav{
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+
+}
+*::placeholder{
+  color: #B6B6B6 !important;
+}
+
+.container .box{
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+  background-color: #24353F;
+}
+
+input{
+  color: white !important;
+  box-shadow: none !important;
+}
+
+a:hover:not(.brand){
+  text-decoration: underline !important;
+}
